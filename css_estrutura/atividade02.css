@@ -1,0 +1,40 @@
+h1{
+    font-family: comic sans ms;
+    font-size: 50px;
+    font-weight: 999;
+    color: #ff0000;
+}
+
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #00ff00;
+}
+
+label{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 100;
+    color: #0000ff;
+}
+
+input{
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+p{
+    font-family: fantasy;
+    font-size: 40px;
+    font-weight: 700;
+    color: #ff00ff;
+}
+
+button{
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    font-size: 30px;
+    font-weight: 400;
+    color: #9c0a0a;
+}
